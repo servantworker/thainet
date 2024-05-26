@@ -1,0 +1,507 @@
+{
+  "vaultName": "Thailand Networks",
+  "lastExport": 1716697785938,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars show-inline-title minimal-default-dark minimal-flexoki-light colorful-headings colorful-active links-int-on links-ext-on full-width-media minimal-readable minimal-light-tonal theme-dark trim-cols",
+  "useCustomHeadContent": true,
+  "useCustomFavicon": false,
+  "files": [
+    "Excalidraw/Drawing 2024-05-25 14.05.01.excalidraw.md",
+    "Recovery worker training/Boundaries.md",
+    "Recovery worker training/Index.md",
+    "Recovery worker training/Mindfulness.md",
+    "Recovery worker training/Overview of topics.md",
+    "Recovery worker training/Staff-employee training.md",
+    "Recovery worker training/Topic brainstorm.md",
+    "Recovery worker training/Training Methodology.md",
+    "Recovery worker training/Volunteer training.md",
+    "Sapphire/Education/Arts Education.md",
+    "Sapphire/Education/Sapphire Education Program.md",
+    "Sapphire/Education/Sapphire Personal Growth Education.md",
+    "Sapphire/Job Descriptions/Sapphire Care Team.md",
+    "Sapphire/Job Descriptions/Sapphire Curriculum Consultant.md",
+    "Sapphire/Job Descriptions/Sapphire Day Counselor Job.md",
+    "Sapphire/Job Descriptions/Sapphire Director.md",
+    "Sapphire/Job Descriptions/Sapphire Night Counselor Job.md",
+    "Sapphire/Job Descriptions/Sapphire Startup Consultant.md",
+    "Sapphire/Job Descriptions/Sapphire Supervising Teacher.md",
+    "Sapphire/Policy Docs/Sapphire Management Documentation.md",
+    "Sapphire/Policy Docs/Sapphire Policies.md",
+    "Sapphire/Policy Docs/Worker Conduct.md",
+    "Sapphire/Reference Material/Relevant links.md",
+    "Sapphire/Sapphire.canvas",
+    "Sapphire/Sapphire Job Candidates.md",
+    "Sapphire/Sapphire Main Page.md",
+    "Sapphire/Sapphire Residential Prevention Centers Overview.md",
+    "About.md",
+    "Comment Policy.md",
+    "Giscus.md",
+    "index.md",
+    "scripts_css.html",
+    "The Great Commission for Thailand.md",
+    "Vision for Healing Network.md",
+    "เครอขายนิมิตเพื่อการรักสา.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/html/custom-head-content.html",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/html/custom-head-content.html",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 17474,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 2857,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 157786,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 209702,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 4710,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Sapphire/Education/Arts Education.md": {
+      "modifiedTime": 1716696885807,
+      "sourceSize": 128,
+      "exportedPath": "sapphire/education/arts-education.html",
+      "dependencies": []
+    },
+    "lib/html/custom-head-content.html": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1275,
+      "exportedPath": "lib/html/custom-head-content.html",
+      "dependencies": []
+    },
+    "Excalidraw/Drawing 2024-05-25 14.05.01.excalidraw.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 566,
+      "exportedPath": "excalidraw/drawing-2024-05-25-14.05.01.excalidraw.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Boundaries.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1010,
+      "exportedPath": "recovery-worker-training/boundaries.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Index.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 12,
+      "exportedPath": "recovery-worker-training/index.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Mindfulness.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1862,
+      "exportedPath": "recovery-worker-training/mindfulness.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Overview of topics.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 625,
+      "exportedPath": "recovery-worker-training/overview-of-topics.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Staff-employee training.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 0,
+      "exportedPath": "recovery-worker-training/staff-employee-training.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Topic brainstorm.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 6678,
+      "exportedPath": "recovery-worker-training/topic-brainstorm.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Training Methodology.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 73,
+      "exportedPath": "recovery-worker-training/training-methodology.html",
+      "dependencies": []
+    },
+    "Recovery worker training/Volunteer training.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 0,
+      "exportedPath": "recovery-worker-training/volunteer-training.html",
+      "dependencies": []
+    },
+    "Sapphire/Education/Sapphire Education Program.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 187,
+      "exportedPath": "sapphire/education/sapphire-education-program.html",
+      "dependencies": []
+    },
+    "Sapphire/Education/Sapphire Personal Growth Education.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1566,
+      "exportedPath": "sapphire/education/sapphire-personal-growth-education.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Care Team.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1065,
+      "exportedPath": "sapphire/job-descriptions/sapphire-care-team.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Curriculum Consultant.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 545,
+      "exportedPath": "sapphire/job-descriptions/sapphire-curriculum-consultant.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Day Counselor Job.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 113,
+      "exportedPath": "sapphire/job-descriptions/sapphire-day-counselor-job.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Director.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1565,
+      "exportedPath": "sapphire/job-descriptions/sapphire-director.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Night Counselor Job.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1,
+      "exportedPath": "sapphire/job-descriptions/sapphire-night-counselor-job.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Startup Consultant.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 856,
+      "exportedPath": "sapphire/job-descriptions/sapphire-startup-consultant.html",
+      "dependencies": []
+    },
+    "Sapphire/Job Descriptions/Sapphire Supervising Teacher.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 604,
+      "exportedPath": "sapphire/job-descriptions/sapphire-supervising-teacher.html",
+      "dependencies": []
+    },
+    "Sapphire/Policy Docs/Sapphire Management Documentation.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 421,
+      "exportedPath": "sapphire/policy-docs/sapphire-management-documentation.html",
+      "dependencies": []
+    },
+    "Sapphire/Policy Docs/Sapphire Policies.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 3986,
+      "exportedPath": "sapphire/policy-docs/sapphire-policies.html",
+      "dependencies": []
+    },
+    "Sapphire/Policy Docs/Worker Conduct.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1885,
+      "exportedPath": "sapphire/policy-docs/worker-conduct.html",
+      "dependencies": []
+    },
+    "Sapphire/Reference Material/Relevant links.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 514,
+      "exportedPath": "sapphire/reference-material/relevant-links.html",
+      "dependencies": []
+    },
+    "Sapphire/Sapphire.canvas": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 810,
+      "exportedPath": "sapphire/sapphire.html",
+      "dependencies": []
+    },
+    "Sapphire/Sapphire Job Candidates.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 196,
+      "exportedPath": "sapphire/sapphire-job-candidates.html",
+      "dependencies": []
+    },
+    "Sapphire/Sapphire Main Page.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 425,
+      "exportedPath": "sapphire/sapphire-main-page.html",
+      "dependencies": []
+    },
+    "Sapphire/Sapphire Residential Prevention Centers Overview.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 7335,
+      "exportedPath": "sapphire/sapphire-residential-prevention-centers-overview.html",
+      "dependencies": []
+    },
+    "About.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 2700,
+      "exportedPath": "about.html",
+      "dependencies": []
+    },
+    "Comment Policy.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 41,
+      "exportedPath": "comment-policy.html",
+      "dependencies": []
+    },
+    "Giscus.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 496,
+      "exportedPath": "giscus.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 960,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "scripts_css.html": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 1275,
+      "exportedPath": "scripts_css.html",
+      "dependencies": []
+    },
+    "The Great Commission for Thailand.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 12802,
+      "exportedPath": "the-great-commission-for-thailand.html",
+      "dependencies": []
+    },
+    "Vision for Healing Network.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 5330,
+      "exportedPath": "vision-for-healing-network.html",
+      "dependencies": []
+    },
+    "เครอขายนิมิตเพื่อการรักสา.md": {
+      "modifiedTime": 1716697785938,
+      "sourceSize": 2349,
+      "exportedPath": "เครอขายนิมิตเพื่อการรักสา.html",
+      "dependencies": []
+    }
+  }
+}
